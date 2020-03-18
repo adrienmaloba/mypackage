@@ -10,5 +10,9 @@
             "email": "adrienmaloba@gmail.com"
         }
     ],
-    "require": {}
+    "autoload": {
+        "psr-4": {
+            "adrienmaloba\\mypackage\\": "src/"
+        }
+    }
 }
