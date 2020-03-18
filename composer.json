@@ -3,6 +3,7 @@
     "description": "Test",
     "type": "library",
     "license": "MIT",
+    "version": "1",
     "authors": [
         {
             "name": "Adrien Maloba",
