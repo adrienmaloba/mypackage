@@ -1,9 +1,8 @@
 {
-    "name": "adrienmaloba/mypackage",
-    "description": "Test",
+    "name": "adrien/mypackage",
+    "description": "We test",
     "type": "library",
     "license": "MIT",
-    "version": "1",
     "authors": [
         {
             "name": "Adrien Maloba",
@@ -12,9 +11,5 @@
     ],
     "minimum-stability": "dev",
     "prefer-stable": true,
-    "autoload": {
-        "psr-4": {
-            "adrienmaloba\\mypackage\\": "/"
-        }
-    }
+    "require": {}
 }
