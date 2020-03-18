@@ -1,0 +1,13 @@
+{
+    "name": "adrien/mypackage",
+    "description": "Test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Adrien Maloba",
+            "email": "adrienmaloba@gmail.com"
+        }
+    ],
+    "require": {}
+}
