@@ -10,7 +10,7 @@
             "email": "adrienmaloba@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "adrienmaloba\\mypackage\\": "src/"
