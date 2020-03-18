@@ -14,7 +14,7 @@
     "prefer-stable": true,
     "autoload": {
         "psr-4": {
-            "adrienmaloba\\mypackage\\": "src/"
+            "adrienmaloba\\mypackage\\": "/"
         }
     }
 }
