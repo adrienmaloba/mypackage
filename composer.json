@@ -1,15 +1,20 @@
 {
     "name": "adrien/mypackage",
     "description": "We test",
+    "keywords": ["javascript", "pdf", "utf-8"],
     "type": "library",
     "license": "MIT",
     "authors": [
         {
             "name": "Adrien Maloba",
-            "email": "adrienmaloba@gmail.com"
+            "email": "adrienmaloba@gmail.com",
+            "homepage": "http://www.example.com",
+            "role": "Developer"
         }
     ],
-    "minimum-stability": "dev",
-    "prefer-stable": true,
-    "require": {}
+    "support": {
+        "issues": "https://example.com",
+        "source": "https://example.com",
+        "docs": "https://example.com"
+    }
 }
