@@ -3,7 +3,7 @@
     "description": "We test",
     "keywords": ["javascript", "pdf", "utf-8"],
     "type": "library",
-    "version": "v1.0",
+    "version":"1.7",
     "license": "MIT",
     "authors": [
         {
